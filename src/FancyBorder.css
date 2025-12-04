@@ -1,0 +1,9 @@
+.fancyborder{
+    padding: 20px;
+    background-color:#00001a;
+    float: left;
+    justify-content: center;
+    border-style: solid;
+    border-radius: 1.5%;
+    border-color: #dddddd;
+}
